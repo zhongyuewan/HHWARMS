@@ -21,7 +21,7 @@ Coral reef degradation has been recorded globally and increasing efforts have be
 
 
 ### Codes 
-1_motile2mm: data curation and alpha diversity analysis for the motile macro fauna data. 
+1_motile2mm: data curation and alpha diversity analysis for the motile macro fauna data. \n
 2_alphaDiversity: alpha diversity analysis for COI metabarcoding data. 
 3_NMDS: Non-metric Multidimensional Scaling to assess community similarity. 
 4_PCoA: Principal Coordinates Analysis to assess community similarity. 
