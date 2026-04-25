@@ -26,14 +26,14 @@ Coral reef degradation has been recorded globally and increasing efforts have be
 3_NMDS: Non-metric Multidimensional Scaling to assess community similarity. \ 
 4_PCoA: Principal Coordinates Analysis to assess community similarity. \
 5_divergentBarChart: codes to identify phylum-specific richness changes between active coral restoration and passive habitat restoration. \
-6_ISA_SIMPER: Indicator Species Analysis and Similarity Percentages Analysis to identify taxa that contributed to significant community differences. \
+6_ISA_SIMPER: Indicator Species Analysis and Similarity Percentages Analysis to identify taxa that contributed to significant community differences. 
 
 ### Data 
 1_sample-metadata.tsv: sample metadata. \
 2_feaTable.csv: feature table from COI metabarcoding showing all OTUs and their abundance in each ARMS. \
 3_TaxAsn.csv: taxonomic assignment results. \
 4_motileData.csv: abundance data from motile macro fauna in each ARMS. \
-5_dna-sequences.fasta: all sequence data after the molecular pipeline. \
+5_dna-sequences.fasta: all sequence data after the molecular pipeline. 
 
 
      
