@@ -17,27 +17,23 @@ Coral reef degradation has been recorded globally and increasing efforts have be
   1. [Code](1_code)
   2. [Data](2_data)
   3. [Figures](3_figures)
-  4. [Tables](4_supplementaryTable)
+  4. [Tables](4_supplementaryTable.xlsx)
 
 
-### Sequence processing pipeline 
-1. [Import & cutadap](https://github.com/zhongyuewan/MGEXP1/blob/main/1_code/1.1_importAndCutAdapt.sh): import raw sequence data (.fastq) into Qiime artefacts (.qza) and remove PCR adaptors.
-2. [Denoise-paired](https://github.com/zhongyuewan/MGEXP1/blob/main/1_code/1.2_denoiseAndPair.sh): remove sequences likely induced by error and merge the reverse/forward reads.
-3. [Decontam](https://github.com/zhongyuewan/MGEXP1/blob/main/1_code/1.3_decontam.r): a process to look into the negative control and remove sequences that might have come from sample contamination.
-4. [Amino Acid translation](https://github.com/zhongyuewan/MGEXP1/blob/main/1_code/1.4_aaTranslate.r): translate DNA sequence into amino acid and remove sequences with one of the following conditions: 1) any STOP codon, 2) >3 deletion, 3) any frameshift, 4) any insertion.
-5. [Cluster all sequences](https://github.com/zhongyuewan/MGEXP1/blob/main/1_code/1.5_clusterReads.sh) by 97% similarity into operational taxonomic units (OTUs) for downstream data analysis.
-6. [Taxonomic assignment](https://github.com/zhongyuewan/MGEXP1/blob/main/1_code/1.6_taxAssign.sh) with BLAST against two different libraries: 1) McIlroy et al. 2024 & 2) Medori2 (GB260).
+### Codes 
+1_motile2mm: data curation and alpha diversity analysis for the motile macro fauna data. 
+2_alphaDiversity: alpha diversity analysis for COI metabarcoding data. 
+3_NMDS: Non-metric Multidimensional Scaling to assess community similarity. 
+4_PCoA: Principal Coordinates Analysis to assess community similarity. 
+5_divergentBarChart: codes to identify phylum-specific richness changes between active coral restoration and passive habitat restoration. 
+6_ISA_SIMPER: Indicator Species Analysis and Similarity Percentages Analysis to identify taxa that contributed to significant community differences. 
 
-### Data Analysis 
-1. Environmental data
-   - [Heatmap](https://github.com/zhongyuewan/MGEXP1/blob/main/1_code/2.1_eData_heatmap.r) (Figure 1d, Table 1)
-   - [MPA east vs west](https://github.com/zhongyuewan/MGEXP1/blob/main/1_code/2.2_eastVSwest.r) (Table S2)
-2. Species richness by ARMS 
-   - [Merge richness from all three fractions](https://github.com/zhongyuewan/MGEXP1/blob/main/1_code/2.3_combinFractionbyARMS.r) (Table S1)
-   - [Environmental data ~ species richness](https://github.com/zhongyuewan/MGEXP1/blob/main/1_code/2.4_eDATAvsRichness.r) (Table 2) 
-3. Community composition
-   - [PCoA](https://github.com/zhongyuewan/MGEXP1/blob/main/1_code/2.5_PCoA.r) (Figure 2)
-   - [Permutational Multivariate Analysis of Variance (adonis2)](https://github.com/zhongyuewan/MGEXP1/blob/main/1_code/2.6_adonis2.r) 
-   - [Diverging Bar Chart & Chi-Square analysis](https://github.com/zhongyuewan/MGEXP1/blob/main/1_code/2.8_sidewayBar.r) (Figure 3)
+### Data 
+1_sample-metadata.tsv: sample metadata. 
+2_feaTable.csv: feature table from COI metabarcoding showing all OTUs and their abundance in each ARMS. 
+3_TaxAsn.csv: taxonomic assignment results. 
+4_motileData.csv: abundance data from motile macro fauna in each ARMS. 
+5_dna-sequences.fasta: all sequence data after the molecular pipeline. 
+
 
      
