@@ -23,7 +23,7 @@ Coral reef degradation has been recorded globally and increasing efforts have be
 ### Codes 
 1_motile2mm: data curation and alpha diversity analysis for the motile macro fauna data. \
 2_alphaDiversity: alpha diversity analysis for COI metabarcoding data. \
-3_NMDS: Non-metric Multidimensional Scaling to assess community similarity. \ 
+3_NMDS: Non-metric Multidimensional Scaling to assess community similarity. \
 4_PCoA: Principal Coordinates Analysis to assess community similarity. \
 5_divergentBarChart: codes to identify phylum-specific richness changes between active coral restoration and passive habitat restoration. \
 6_ISA_SIMPER: Indicator Species Analysis and Similarity Percentages Analysis to identify taxa that contributed to significant community differences. 
