@@ -5,7 +5,7 @@
 
 ## Abstract 
 
-<img align="right" src="2_figure/figure2forshow.png" width=450> 
+<img align="right" src="3_figures/Picture4png.png" width=450> 
 
 Coral reef degradation has been recorded globally and increasing efforts have been put into coral restoration aiming to rebuild functional reef ecosystems. Polyculture—restoring multiple coral species together—has been identified as a promising strategy to promote coral growth and survivorship. But it remains unknown whether it’s effective at recruiting the broader cryptobenthic community—the essential but often overlooked foundation of a functional reef. Therefore, we used standardized Autonomous Reef Monitoring Structures (ARMS) and metabarcoding to compare cryptic biodiversity in a three-year restoration experiment featuring mono-, mix-, poly-culture, and unseeded control plots. We found that while proximity to a healthy reef was the strongest driver of community composition, active coral seeding significantly increased total taxonomic richness compared to controls, which trended toward oyster-dominated, lower-diversity states. However, the distinct culture types (mono-, mix-, poly-) did not yet produce substantially different communities in this early stage. Our results confirmed that active restoration is superior to passive substrate deployment for biodiversity recruitment and indicate that the hypothesized benefits of polyculture may require longer timelines to allow coral biomass and structural complexity to develop.
 
@@ -14,11 +14,11 @@ Coral reef degradation has been recorded globally and increasing efforts have be
 ## Table of Contents
 
 ### Supporting Materials 
-  1. [Raw sequence](xxx) 
-  2. [Data](3_data)
-  3. [Figures](2_figure/xx)
-  4. [Tables](2_figure/xx)
-  5. [Supplementary Materials](2_figure/xx)
+  1. [Code](1_code)
+  2. [Data](2_data)
+  3. [Figures](3_figures)
+  4. [Tables](4_supplementaryTable)
+
 
 ### Sequence processing pipeline 
 1. [Import & cutadap](https://github.com/zhongyuewan/MGEXP1/blob/main/1_code/1.1_importAndCutAdapt.sh): import raw sequence data (.fastq) into Qiime artefacts (.qza) and remove PCR adaptors.
