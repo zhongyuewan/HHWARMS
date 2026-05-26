@@ -21,19 +21,19 @@ Coral reef degradation has been recorded globally and increasing efforts have be
 
 
 ### Codes 
-1_motile2mm(1_code/1_motile2mm.R): data curation and alpha diversity analysis for the motile macro fauna data. \
-2_alphaDiversity: alpha diversity analysis for COI metabarcoding data. \
-3_NMDS: Non-metric Multidimensional Scaling to assess community similarity. \
-4_PCoA: Principal Coordinates Analysis to assess community similarity. \
-5_divergentBarChart: codes to identify phylum-specific richness changes between active coral restoration and passive habitat restoration. \
-6_ISA_SIMPER: Indicator Species Analysis and Similarity Percentages Analysis to identify taxa that contributed to significant community differences. 
+[1_motile2mm](1_code/1_motile2mm.R): data curation and alpha diversity analysis for the motile macro fauna data. \
+[2_alphaDiversity](1_code/2_alphaDiversity.R): alpha diversity analysis for COI metabarcoding data. \
+[3_NMDS](1_code/3_NMDS.R): Non-metric Multidimensional Scaling to assess community similarity. \
+[4_PCoA](1_code/4_PCoA.R): Principal Coordinates Analysis to assess community similarity. \
+[5_divergentBarChart](1_code/5_divergentBarChart.R): codes to identify phylum-specific richness changes between active coral restoration and passive habitat restoration. \
+[6_ISA_SIMPER](1_code/6_ISA_SIMPER.R): Indicator Species Analysis and Similarity Percentages Analysis to identify taxa that contributed to significant community differences. 
 
 ### Data 
-1_sample-metadata.tsv: sample metadata. \
-2_feaTable.csv: feature table from COI metabarcoding showing all OTUs and their abundance in each ARMS. \
-3_TaxAsn.csv: taxonomic assignment results. \
-4_motileData.csv: abundance data from motile macro fauna in each ARMS. \
-5_dna-sequences.fasta: all sequence data after the molecular pipeline. 
+[meta data](2_data/1_sample-metadata.tsv): sample metadata. \
+[feature table](2_data/2_feaTable.csv): feature table from COI metabarcoding showing all OTUs and their abundance in each ARMS. \
+[taxAssign](2_data/3_TaxAsn.csv): taxonomic assignment results. \
+[Abundance](2_data/4_motileData.csv): abundance data from motile macro fauna in each ARMS. \
+[All seq](2_data/5_dna-sequences.fasta): all sequence data after the molecular pipeline. 
 
 
      
