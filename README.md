@@ -1,4 +1,4 @@
-# Restoring Beyond Corals: Strong Spatial Gradients in Benthic Cryptobenthic Community Assembly
+# Restoring Beyond Corals: Confounding Effects of Distance and Coral Assemblage on Cryptobenthic Community Assembly
 
 
 #### author list hidden for double-anonymised review 
@@ -7,7 +7,22 @@
 
 <img align="right" src="3_figures/Picture4png.png" width=450> 
 
-Coral reef degradation has been recorded globally and increasing efforts have been put into coral restoration aiming to rebuild functional reef ecosystems. Polyculture—restoring multiple coral species together—has been identified as a promising strategy to promote coral growth and survivorship. But it remains unknown whether it’s effective at recruiting the broader cryptobenthic community—the essential but often overlooked foundation of a functional reef. Therefore, we used standardized Autonomous Reef Monitoring Structures (ARMS) and metabarcoding to compare cryptic biodiversity in a three-year restoration experiment featuring mono-, mix-, poly-culture, and unseeded control plots. We found that while proximity to a healthy reef was the strongest driver of community composition, active coral seeding significantly increased total taxonomic richness compared to controls, which trended toward oyster-dominated, lower-diversity states. However, the distinct culture types (mono-, mix-, poly-) did not yet produce substantially different communities in this early stage. Our results confirmed that active restoration is superior to passive substrate deployment for biodiversity recruitment and indicate that the hypothesized benefits of polyculture may require longer timelines to allow coral biomass and structural complexity to develop.
+Abstract 
+Introduction
+Coral reef degradation has been recorded globally, and increasing efforts have been put into coral restoration, aiming to rebuild functional reef ecosystems. Polyculture—restoring multiple coral species together—has been identified as a promising strategy to promote coral growth and survivorship.
+Objective 
+This study aims to understand how different coral assemblages used in restoration effectively recruit the broader cryptobenthic community—the essential but often overlooked foundation of a functional reef.
+Methods
+We used standardized Autonomous Reef Monitoring Structures (ARMS) and COI metabarcoding to compare cryptic biodiversity across a three-year restoration experiment in Hong Kong featuring different coral assemblages: monocultures (each consisting of a single genus: Acropora, Pavona, or Platygyra), a mixed-culture (two genera: Acropora + Platygyra), a polyculture (all three genera), and unseeded control plots.
+Results
+Active coral seeding tended to increase total taxonomic richness compared to controls, which showed a trend toward oyster-dominated, lower-diversity states. Proximity to a healthy reef was associated with community composition, exhibiting a pattern of distance-decay in community similarity. However, the different coral assemblages (mono-, mixed-, and polyculture) did not produce substantially different communities during our study period.
+Conclusions
+Our results suggest that both restoration coral assemblage and proximity to an established reef were associated with benthic community recruitment patterns, though these effects were confounded in our experimental design.
+Implications for Practice
+Habitat restoration should look beyond the survival and growth of the restored species and assess how they shape the ecological community. Leveraging ARMS and COI metabarcoding, we identified community patterns associated with coral assemblage and their distance to mature reef. Yet over our three-year study period, the differences among coral assemblages were subtle, suggesting that the biodiversity benefits of coral restoration may require more time to fully materialize. Practitioners should therefore account for the effects of restoration species composition and spatial connectivity, and—most importantly—recognize that the full ecological outcomes of restoration may require decades, not years.
+
+Keywords: coral restoration, ARMS, COI metabarcoding, community ecology.  
+
 
 
 
