@@ -7,24 +7,24 @@
 
 <img align="right" src="3_figures/Picture4png.png" width=450> 
 
-Abstract 
-Introduction
-Coral reef degradation has been recorded globally, and increasing efforts have been put into coral restoration, aiming to rebuild functional reef ecosystems. Polyculture—restoring multiple coral species together—has been identified as a promising strategy to promote coral growth and survivorship.
+Abstract\
+Introduction\
+Coral reef degradation has been recorded globally, and increasing efforts have been put into coral restoration, aiming to rebuild functional reef ecosystems. Polyculture—restoring multiple coral species together—has been identified as a promising strategy to promote coral growth and survivorship.\
 
-Objective 
-This study aims to understand how different coral assemblages used in restoration effectively recruit the broader cryptobenthic community—the essential but often overlooked foundation of a functional reef.
+Objective\ 
+This study aims to understand how different coral assemblages used in restoration effectively recruit the broader cryptobenthic community—the essential but often overlooked foundation of a functional reef.\
 
-Methods
-We used standardized Autonomous Reef Monitoring Structures (ARMS) and COI metabarcoding to compare cryptic biodiversity across a three-year restoration experiment in Hong Kong featuring different coral assemblages: monocultures (each consisting of a single genus: Acropora, Pavona, or Platygyra), a mixed-culture (two genera: Acropora + Platygyra), a polyculture (all three genera), and unseeded control plots.
+Methods\
+We used standardized Autonomous Reef Monitoring Structures (ARMS) and COI metabarcoding to compare cryptic biodiversity across a three-year restoration experiment in Hong Kong featuring different coral assemblages: monocultures (each consisting of a single genus: Acropora, Pavona, or Platygyra), a mixed-culture (two genera: Acropora + Platygyra), a polyculture (all three genera), and unseeded control plots.\
 
-Results
-Active coral seeding tended to increase total taxonomic richness compared to controls, which showed a trend toward oyster-dominated, lower-diversity states. Proximity to a healthy reef was associated with community composition, exhibiting a pattern of distance-decay in community similarity. However, the different coral assemblages (mono-, mixed-, and polyculture) did not produce substantially different communities during our study period.
+Results\
+Active coral seeding tended to increase total taxonomic richness compared to controls, which showed a trend toward oyster-dominated, lower-diversity states. Proximity to a healthy reef was associated with community composition, exhibiting a pattern of distance-decay in community similarity. However, the different coral assemblages (mono-, mixed-, and polyculture) did not produce substantially different communities during our study period.\
 
-Conclusions
-Our results suggest that both restoration coral assemblage and proximity to an established reef were associated with benthic community recruitment patterns, though these effects were confounded in our experimental design.
+Conclusions\
+Our results suggest that both restoration coral assemblage and proximity to an established reef were associated with benthic community recruitment patterns, though these effects were confounded in our experimental design.\
 
-Implications for Practice
-Habitat restoration should look beyond the survival and growth of the restored species and assess how they shape the ecological community. Leveraging ARMS and COI metabarcoding, we identified community patterns associated with coral assemblage and their distance to mature reef. Yet over our three-year study period, the differences among coral assemblages were subtle, suggesting that the biodiversity benefits of coral restoration may require more time to fully materialize. Practitioners should therefore account for the effects of restoration species composition and spatial connectivity, and—most importantly—recognize that the full ecological outcomes of restoration may require decades, not years.
+Implications for Practice\
+Habitat restoration should look beyond the survival and growth of the restored species and assess how they shape the ecological community. Leveraging ARMS and COI metabarcoding, we identified community patterns associated with coral assemblage and their distance to mature reef. Yet over our three-year study period, the differences among coral assemblages were subtle, suggesting that the biodiversity benefits of coral restoration may require more time to fully materialize. Practitioners should therefore account for the effects of restoration species composition and spatial connectivity, and—most importantly—recognize that the full ecological outcomes of restoration may require decades, not years.\
 
 Keywords: coral restoration, ARMS, COI metabarcoding, community ecology.  
 
