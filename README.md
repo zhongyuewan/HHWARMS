@@ -41,12 +41,16 @@ Keywords: coral restoration, ARMS, COI metabarcoding, community ecology.
 
 
 ### Codes 
-[1_motile2mm](1_code/1_motile2mm.R): data curation and alpha diversity analysis for the motile macro fauna data. \
-[2_alphaDiversity](1_code/2_alphaDiversity.R): alpha diversity analysis for COI metabarcoding data. \
+[1_rarefraction](1_code/1_rarefraction.R): data curation and read table and rarefaction \
+[2_alphaDiversity](1_code/2_alpha_glmm.R): alpha diversity analysis for macrofauna & COI metabarcoding data. \
 [3_NMDS](1_code/3_NMDS.R): Non-metric Multidimensional Scaling to assess community similarity. \
 [4_PCoA](1_code/4_PCoA.R): Principal Coordinates Analysis to assess community similarity. \
-[5_divergentBarChart](1_code/5_divergentBarChart.R): codes to identify phylum-specific richness changes between active coral restoration and passive habitat restoration. \
-[6_ISA_SIMPER](1_code/6_ISA_SIMPER.R): Indicator Species Analysis and Similarity Percentages Analysis to identify taxa that contributed to significant community differences. 
+[5_divergentBarChart](1_code/5_taxAbundance.R): codes to identify phylum-specific richness changes between active coral restoration and passive habitat restoration. \
+[6_coral](1_code/6-coral.R): code handling coral maximum linear extension. \
+[7_SIMPER](1_code/7_indicat_molecular.R): Similarity Percentages Analysis to identify taxa that contributed to significant community differences. (molecular data) \
+[8_SIMPER_2mm](1_code/8_indicat_2mm.R): Similarity Percentages Analysis to identify taxa that contributed to significant community differences. (macrofuna data) \
+[9_LMM](1_code/9_abundanceLMM.R): LMM for read abundance analysis. \
+
 
 ### Data 
 [meta data](2_data/1_sample-metadata.tsv): sample metadata. \
