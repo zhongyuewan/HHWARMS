@@ -11,7 +11,7 @@ Abstract \
 Introduction \
 Coral reef degradation has been recorded globally, and increasing efforts have been put into coral restoration, aiming to rebuild functional reef ecosystems. Polyculture—restoring multiple coral species together—has been identified as a promising strategy to promote coral growth and survivorship. 
 
-Objective \ 
+Objective \
 This study aims to understand how different coral assemblages used in restoration effectively recruit the broader cryptobenthic community—the essential but often overlooked foundation of a functional reef. 
 
 Methods \
