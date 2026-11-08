@@ -1,4 +1,4 @@
-# Restoring Beyond Corals: Confounding Effects of Distance and Coral Assemblage on Cryptobenthic Community Assembly
+<img width="468" height="118" alt="image" src="https://github.com/user-attachments/assets/55390473-22ff-401d-8d32-4e3b93eed86d" /># Coral presence and reef proximity are associated with cryptobenthic community composition three years after restoration
 
 
 #### author list hidden for double-anonymised review 
