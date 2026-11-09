@@ -1,4 +1,4 @@
-<img width="468" height="292" alt="image" src="https://github.com/user-attachments/assets/cc7ed285-ea58-4ae1-934a-9ce0c6c87184" /><img width="468" height="126" alt="image" src="https://github.com/user-attachments/assets/c64c111a-ce6c-434f-80dc-4d067e18d8a8" /><img width="468" height="237" alt="image" src="https://github.com/user-attachments/assets/cc678f1c-1bde-4a22-928a-13c73ae17a62" /><img width="468" height="209" alt="image" src="https://github.com/user-attachments/assets/49468ab0-f232-4ba5-bff9-6b501a0af0dc" /># Coral presence and reef proximity are associated with cryptobenthic community composition three years after restoration
+# Coral presence and reef proximity are associated with cryptobenthic community composition three years after restoration
 
 
 #### author list hidden for double-anonymised review 
