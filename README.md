@@ -45,7 +45,7 @@ Keywords: coral restoration, ARMS, COI metabarcoding, community ecology.
 [2_alphaDiversity](1_code/2.0_alpha_glmm.R): alpha diversity analysis for macrofauna & COI metabarcoding data. \
 [3_multidimentional](1_code/3.0_multidimensionalAnalys.R): Multi dimensional analysis: PCoA/adonis/dbRDA. \
 [4_read adbundance analysis](1_code/4.0_GLMMabundance.R): GLMM analysis on phylum-specific read abundance. \
-[5_SIMPER_2mm](1_code/5.0_SIMPER.R): Similarity Percentages Analysis to identify taxa that contributed to significant community differences. (macrofuna data) \
+[5_SIMPER_2mm](1_code/5.0_SIMPER.R): Similarity Percentages Analysis to identify taxa that contributed to significant community differences. (macrofuna data) 
 
 
 ### Data 
