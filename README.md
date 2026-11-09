@@ -5,7 +5,7 @@
 
 ## Abstract 
 
-<img align="right" src="3_figures/Picture4png.png" width=450> 
+<img align="right" src="3_figures/demo.png" width=450> 
 
 Abstract \
 Introduction \
